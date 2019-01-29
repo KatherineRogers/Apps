@@ -1,0 +1,1 @@
+This app demonstrates downloading news articles via API, pushing notifications to the user every 60 seconds, and setting pending intents in the notification 
