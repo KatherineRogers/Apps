@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">hrubiecKatherine_CE07</string>
-    <string name="no_saved_articles">No Saved Articles.</string>
-    <string name="des">des</string>
-    <string name="no_int">No Internet Connection!</string>
-    <string name="headlines"><![CDATA[https://newsapi.org/v2/top-headlines?sources=espn&apiKey=83efa0dda60f4620ac00ba9162e9c5e4]]></string>
-</resources>
