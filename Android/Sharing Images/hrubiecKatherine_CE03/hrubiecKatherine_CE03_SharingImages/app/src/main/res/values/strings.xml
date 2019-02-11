@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">hrubiecKatherine_CE03_SharingImages</string>
+    <string name="camera">Camera</string>
+    <string name="contDes">contDes</string>
+    <string name="please_take_an_image">Please take an image.</string>
+    <string name="obj_cannot_cast">Object is cannot be cast</string>
+    <string name="img_not_nul">Images should not be null</string>
+    <string name="grid_not_null">Gridview should not be null</string>
+    <string name="no_new_file">Cannot create new file</string>
+    <string name="intent_null">Intent action is null!</string>
+    <string name="cannot_create_new_file">Cannot create new file</string>
+    <string name="authority">com.fullsail.android.fileprovider</string>
+    <string name="jpg">.jpg</string>
+    <string name="images_folder">images</string>
+    <string name="not_getimagelistener">Context is not of kind GetImageListener</string>
+    <string name="null_view">View is null</string>
+</resources>
