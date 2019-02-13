@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hrubiecKatherine_CE07</string>
+    <string name="created_by">Created By</string>
+    <string name="katherine_rogers">Katherine Rogers</string>
+    <string name="art_by">Art By</string>
+    <string name="full_sail_university">Full Sail University</string>
+    <string name="start_game">Start Game</string>
+    <string name="credits">Credits</string>
+    <string name="no_treasure_items_have_been_found">No treasure items have been found!</string>
+    <string name="continue_game">CONTINUE GAME</string>
+    <string name="game_over">Game Over!</string>
+    <string name="you_found_all_the_treasure">You found all the treasure!</string>
+    <string name="okay">Okay</string>
+    <string name="inventory">Inventory</string>
+</resources>
